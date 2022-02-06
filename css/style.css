@@ -1,0 +1,35 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+li {
+  color: teal;
+}
+.Contacts-conteiner {
+  background: #1e2939;
+  width: 400px;
+  height: 200px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.Tech-skill-conteiner {
+  background: #1e2939;
+  width: 400px;
+  height: 200px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.Soft-skill-conteiner {
+  background: #1e2939;
+  width: 400px;
+  height: 200px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.MyPhoto {
+  background: #1e2939;
+  width: 370px;
+  height: 354px;
+}
